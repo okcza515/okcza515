@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/okcza515](https://github.com/okcza515)
 
+- 💬 I can speak **English, German**
+
 - 📫 How to reach me **nutchapong.pramualsap@mail.kmutt.ac.th**
 
 <h3 align="left">Connect with me:</h3>
