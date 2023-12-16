@@ -5,7 +5,7 @@
 
 - 💬 I can speak **English, German**
 
-- 📫 How to reach me **nutchapong.pramualsap@mail.kmutt.ac.th**
+- 📫 You can contact me at **nutchapong.pramualsap@mail.kmutt.ac.th**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
