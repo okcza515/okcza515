@@ -1,4 +1,4 @@
-<h1 align="center">😄 😆 😊 😃 ☺️ 😏 😍 😘 😚 😳 😌 😆 😁 😉   <br/>😜 😝 😗 I'm nutchapong pramualsap 😗 😙 😛<br/>   😴 😟 😦 😧 😮 😬 😕 😯 😑 😒 😅 😓 😥😩 </h1> 
+<h1 align="center"> I'm nutchapong pramualsap  </h1> 
 <h3 align="center">A passionate Machine Learning developer</h3>
 
 - 🌱 I’m currently learning **tensorflow**
