@@ -46,3 +46,9 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="raw.githubusercontent.com/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okcza515/okcza515/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/okcza515/okcza515/output/github-contribution-grid-snake.svg">
+</picture>
