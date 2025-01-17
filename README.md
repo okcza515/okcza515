@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **tensorflow**
 
-- 💬 I can speak **English, German**
+- 💬 I can speak **English**
 
 - 📫 You can contact me at **nutchapong.pramualsap@mail.kmutt.ac.th**
 
